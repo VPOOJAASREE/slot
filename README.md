@@ -29,6 +29,7 @@ Execute the program using runserver command.
 ![Screenshot 2024-01-01 002640](https://github.com/VPOOJAASREE/slot/assets/155145525/a5db1fdb-717f-40e1-bd5e-dc5f0fee85a7)
 
 ![Screenshot 2024-01-01 002656](https://github.com/VPOOJAASREE/slot/assets/155145525/4f1aaa6a-d891-4770-8b2a-b5f0820dca99)
+
 ![Screenshot 2024-01-01 002713](https://github.com/VPOOJAASREE/slot/assets/155145525/865e70a1-7a20-4ed6-b328-2a28241f81c4)
 
 
